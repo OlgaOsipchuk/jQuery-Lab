@@ -10,6 +10,8 @@ function addToDo(evt) {
 
 
 
+
+
 function deleteSkill() {
     $(".delete").click(function () {
         $(this).closest('li').fadeOut(
